@@ -20,7 +20,7 @@ This is a responsive portfolio website built using **HTML, CSS, Bootstrap, JavaS
 
 ## Demo 🌐
 
-Check out the live demo: https://sourav-gittech.github.io/portfolio_web
+Check out the live demo: https://sourav-gittech.github.io/portfolio-1_web
 
 ## Folder Structure 📂
 
